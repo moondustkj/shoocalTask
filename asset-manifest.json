@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shoocalTask/static/css/main.f0dadff7.chunk.css",
+    "main.js": "/shoocalTask/static/js/main.995776a9.chunk.js",
+    "main.js.map": "/shoocalTask/static/js/main.995776a9.chunk.js.map",
+    "runtime-main.js": "/shoocalTask/static/js/runtime-main.1ed1376f.js",
+    "runtime-main.js.map": "/shoocalTask/static/js/runtime-main.1ed1376f.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/shoocalTask/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.48d2b0f6.chunk.js": "/shoocalTask/static/js/2.48d2b0f6.chunk.js",
+    "static/js/2.48d2b0f6.chunk.js.map": "/shoocalTask/static/js/2.48d2b0f6.chunk.js.map",
+    "index.html": "/shoocalTask/index.html",
+    "precache-manifest.51adc93194c20ecee991cf6c41a47145.js": "/shoocalTask/precache-manifest.51adc93194c20ecee991cf6c41a47145.js",
+    "service-worker.js": "/shoocalTask/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/shoocalTask/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.f0dadff7.chunk.css.map": "/shoocalTask/static/css/main.f0dadff7.chunk.css.map",
+    "static/js/2.48d2b0f6.chunk.js.LICENSE.txt": "/shoocalTask/static/js/2.48d2b0f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ed1376f.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.48d2b0f6.chunk.js",
+    "static/css/main.f0dadff7.chunk.css",
+    "static/js/main.995776a9.chunk.js"
+  ]
+}
